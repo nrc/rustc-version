@@ -1,0 +1,6 @@
+[package]
+name = "rustc-version"
+version = "1.20.0"
+authors = ["Nick Cameron <ncameron@mozilla.com>"]
+
+[dependencies]
